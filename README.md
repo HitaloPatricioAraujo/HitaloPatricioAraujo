@@ -2,8 +2,6 @@
 - 💻QA Engineer/QA Analyst/Programmer
 - 📝No momento estudando Web Develoment e TestAutomation
 
-[![Hitalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HitaloPatricioAraujo&show_icons=true&theme=tokyonight)](https://github.com/HitaloPatricioAraujo/github-readme-stats)
-
 ##
 <div style="Display inline_block"<br>
   <img align="center" alt=hit-py height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
